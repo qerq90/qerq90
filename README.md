@@ -1,3 +1,5 @@
+![codewars](https://www.codewars.com/users/qerq90/badges/large)
+
 - 👋 Hi, I’m @qerq90
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Rust
